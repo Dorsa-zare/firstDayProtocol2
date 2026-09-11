@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/do2ri/OneDrive/Documents/Unreal Projects/FirstDayProtocol_VR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/do2ri/OneDrive/Documents/Unreal Projects/FirstDayProtocol_VR/Content/VRTemplate/Maps/_GENERATED/do2ri/CubeGridToolOutput_C140350B.uasset",
+				"C:/Users/do2ri/OneDrive/Documents/Unreal Projects/FirstDayProtocol_VR/Content/VRTemplate/Maps/_GENERATED/do2ri/CubeGridToolOutput_32F30CA6.uasset",
+				"C:/Users/do2ri/OneDrive/Documents/Unreal Projects/FirstDayProtocol_VR/Content/VRTemplate/Maps/_GENERATED/do2ri/Stairs_6D172F7D.uasset"
+			]
+		}
+	]
+}
